@@ -8,9 +8,9 @@ So rather than having some fully custom print parts i stuck rigidly with the Ori
 you will require some 3mm x 28mm silver steel pins to use this mod.
 
 ![Screenshot (244)](https://github.com/Driftrotor/Voron-V0.2r1-Pin-Idlers-OEM/assets/94327757/d10b7e33-2ef8-4dd1-afbb-9cd62456fc63)
+![Screenshot (245)](https://github.com/Driftrotor/Voron-V0.2r1-Pin-Idlers-OEM/assets/94327757/1304f0ff-e0c3-48f6-8a00-16544ed115a8)
 
- > [!NOTE]![Screenshot (245)](https://github.com/Driftrotor/Voron-V0.2r1-Pin-Idlers-OEM/assets/94327757/1304f0ff-e0c3-48f6-8a00-16544ed115a8)
-
+ > [!NOTE]
 > The holes for the pins are of tight tollerence and you may need to reem them out for good fitment.
 
 I have found that when printing these with other tollerences that the pins were not as secure, so over time they would become loose in the printed parts. This is obviously not very desireable as we want this mod to be as reliable as possible. Having printed with a tight tollerence and reeming out the holes i have run well over 400 print hours in chamber temps exceeding 60 degrees and the pins are as snug as day one!
